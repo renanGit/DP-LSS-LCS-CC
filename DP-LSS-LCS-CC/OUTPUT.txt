@@ -1,0 +1,330 @@
+Renan Santana
+PID: 4031451
+Due: 11/18/14
+
+****************************************************************
+*Little Note: LCS will have the sequence of the left most match*
+*Ex.  (A)AA(CC)G(T)											   *
+*	   C(ACC)CC(T)										       *
+*Seq: ACCT													   *
+****************************************************************
+
+run:
+File: assign5a.txt
+****** Largest Square Sub-Matrix ******
+Starting index: (125, 98)
+Ending index: (134, 107)
+Size of sub-square: 9x9
+****** _________________________ ******
+
+File: assign5b.txt
+****** Longest Increasing Subsequence ******
+Sequence: ecfbbcfgegccdafcfbfddcbaccefgbfbbceedcgfffeaceacaadaeeacffeeedabfdagecgaggbfdffdfffdcfeabcadgfecgcfaaecdfdebgcgacgfebagcaeffaecbcggbecaadceffcaaeeedfffgccecd
+Length of Sequence String: 157
+Longest Sequence in Table: 157
+****** ______________________________ ******
+
+****** Optimal Coin Change ******
+Ammount of change for 1 cents: 1
+Change in return: 1
+
+Ammount of change for 2 cents: 2
+Change in return: 1, 1
+
+Ammount of change for 3 cents: 3
+Change in return: 1, 1, 1
+
+Ammount of change for 4 cents: 4
+Change in return: 1, 1, 1, 1
+
+Ammount of change for 5 cents: 1
+Change in return: 5
+
+Ammount of change for 6 cents: 2
+Change in return: 5, 1
+
+Ammount of change for 7 cents: 3
+Change in return: 5, 1, 1
+
+Ammount of change for 8 cents: 4
+Change in return: 5, 1, 1, 1
+
+Ammount of change for 9 cents: 5
+Change in return: 5, 1, 1, 1, 1
+
+Ammount of change for 10 cents: 1
+Change in return: 10
+
+Ammount of change for 11 cents: 2
+Change in return: 10, 1
+
+Ammount of change for 12 cents: 3
+Change in return: 10, 1, 1
+
+Ammount of change for 13 cents: 4
+Change in return: 10, 1, 1, 1
+
+Ammount of change for 14 cents: 5
+Change in return: 10, 1, 1, 1, 1
+
+Ammount of change for 15 cents: 2
+Change in return: 10, 5
+
+Ammount of change for 16 cents: 3
+Change in return: 10, 5, 1
+
+Ammount of change for 17 cents: 4
+Change in return: 10, 5, 1, 1
+
+Ammount of change for 18 cents: 1
+Change in return: 18
+
+Ammount of change for 19 cents: 2
+Change in return: 18, 1
+
+Ammount of change for 20 cents: 2
+Change in return: 10, 10
+
+Ammount of change for 21 cents: 3
+Change in return: 10, 10, 1
+
+Ammount of change for 22 cents: 4
+Change in return: 10, 10, 1, 1
+
+Ammount of change for 23 cents: 2
+Change in return: 18, 5
+
+Ammount of change for 24 cents: 3
+Change in return: 18, 5, 1
+
+Ammount of change for 25 cents: 1
+Change in return: 25
+
+Ammount of change for 26 cents: 2
+Change in return: 25, 1
+
+Ammount of change for 27 cents: 3
+Change in return: 25, 1, 1
+
+Ammount of change for 28 cents: 2
+Change in return: 18, 10
+
+Ammount of change for 29 cents: 3
+Change in return: 18, 10, 1
+
+Ammount of change for 30 cents: 2
+Change in return: 25, 5
+
+Ammount of change for 31 cents: 3
+Change in return: 25, 5, 1
+
+Ammount of change for 32 cents: 4
+Change in return: 25, 5, 1, 1
+
+Ammount of change for 33 cents: 3
+Change in return: 18, 10, 5
+
+Ammount of change for 34 cents: 4
+Change in return: 18, 10, 5, 1
+
+Ammount of change for 35 cents: 2
+Change in return: 25, 10
+
+Ammount of change for 36 cents: 2
+Change in return: 18, 18
+
+Ammount of change for 37 cents: 3
+Change in return: 18, 18, 1
+
+Ammount of change for 38 cents: 3
+Change in return: 18, 10, 10
+
+Ammount of change for 39 cents: 4
+Change in return: 18, 10, 10, 1
+
+Ammount of change for 40 cents: 3
+Change in return: 25, 10, 5
+
+Ammount of change for 41 cents: 3
+Change in return: 18, 18, 5
+
+Ammount of change for 42 cents: 4
+Change in return: 18, 18, 5, 1
+
+Ammount of change for 43 cents: 2
+Change in return: 25, 18
+
+Ammount of change for 44 cents: 3
+Change in return: 25, 18, 1
+
+Ammount of change for 45 cents: 3
+Change in return: 25, 10, 10
+
+Ammount of change for 46 cents: 3
+Change in return: 18, 18, 10
+
+Ammount of change for 47 cents: 4
+Change in return: 18, 18, 10, 1
+
+Ammount of change for 48 cents: 3
+Change in return: 25, 18, 5
+
+Ammount of change for 49 cents: 4
+Change in return: 25, 18, 5, 1
+
+Ammount of change for 50 cents: 2
+Change in return: 25, 25
+
+Ammount of change for 51 cents: 3
+Change in return: 25, 25, 1
+
+Ammount of change for 52 cents: 4
+Change in return: 25, 25, 1, 1
+
+Ammount of change for 53 cents: 3
+Change in return: 25, 18, 10
+
+Ammount of change for 54 cents: 3
+Change in return: 18, 18, 18
+
+Ammount of change for 55 cents: 3
+Change in return: 25, 25, 5
+
+Ammount of change for 56 cents: 4
+Change in return: 25, 25, 5, 1
+
+Ammount of change for 57 cents: 5
+Change in return: 25, 25, 5, 1, 1
+
+Ammount of change for 58 cents: 4
+Change in return: 25, 18, 10, 5
+
+Ammount of change for 59 cents: 4
+Change in return: 18, 18, 18, 5
+
+Ammount of change for 60 cents: 3
+Change in return: 25, 25, 10
+
+Ammount of change for 61 cents: 3
+Change in return: 25, 18, 18
+
+Ammount of change for 62 cents: 4
+Change in return: 25, 18, 18, 1
+
+Ammount of change for 63 cents: 4
+Change in return: 25, 18, 10, 10
+
+Ammount of change for 64 cents: 4
+Change in return: 18, 18, 18, 10
+
+Ammount of change for 65 cents: 4
+Change in return: 25, 25, 10, 5
+
+Ammount of change for 66 cents: 4
+Change in return: 25, 18, 18, 5
+
+Ammount of change for 67 cents: 5
+Change in return: 25, 18, 18, 5, 1
+
+Ammount of change for 68 cents: 3
+Change in return: 25, 25, 18
+
+Ammount of change for 69 cents: 4
+Change in return: 25, 25, 18, 1
+
+Ammount of change for 70 cents: 4
+Change in return: 25, 25, 10, 10
+
+Ammount of change for 71 cents: 4
+Change in return: 25, 18, 18, 10
+
+Ammount of change for 72 cents: 4
+Change in return: 18, 18, 18, 18
+
+Ammount of change for 73 cents: 4
+Change in return: 25, 25, 18, 5
+
+Ammount of change for 74 cents: 5
+Change in return: 25, 25, 18, 5, 1
+
+Ammount of change for 75 cents: 3
+Change in return: 25, 25, 25
+
+Ammount of change for 76 cents: 4
+Change in return: 25, 25, 25, 1
+
+Ammount of change for 77 cents: 5
+Change in return: 25, 25, 25, 1, 1
+
+Ammount of change for 78 cents: 4
+Change in return: 25, 25, 18, 10
+
+Ammount of change for 79 cents: 4
+Change in return: 25, 18, 18, 18
+
+Ammount of change for 80 cents: 4
+Change in return: 25, 25, 25, 5
+
+Ammount of change for 81 cents: 5
+Change in return: 25, 25, 25, 5, 1
+
+Ammount of change for 82 cents: 5
+Change in return: 18, 18, 18, 18, 10
+
+Ammount of change for 83 cents: 5
+Change in return: 25, 25, 18, 10, 5
+
+Ammount of change for 84 cents: 5
+Change in return: 25, 18, 18, 18, 5
+
+Ammount of change for 85 cents: 4
+Change in return: 25, 25, 25, 10
+
+Ammount of change for 86 cents: 4
+Change in return: 25, 25, 18, 18
+
+Ammount of change for 87 cents: 5
+Change in return: 25, 25, 18, 18, 1
+
+Ammount of change for 88 cents: 5
+Change in return: 25, 25, 18, 10, 10
+
+Ammount of change for 89 cents: 5
+Change in return: 25, 18, 18, 18, 10
+
+Ammount of change for 90 cents: 5
+Change in return: 25, 25, 25, 10, 5
+
+Ammount of change for 91 cents: 5
+Change in return: 25, 25, 18, 18, 5
+
+Ammount of change for 92 cents: 6
+Change in return: 25, 25, 18, 18, 5, 1
+
+Ammount of change for 93 cents: 4
+Change in return: 25, 25, 25, 18
+
+Ammount of change for 94 cents: 5
+Change in return: 25, 25, 25, 18, 1
+
+Ammount of change for 95 cents: 5
+Change in return: 25, 25, 25, 10, 10
+
+Ammount of change for 96 cents: 5
+Change in return: 25, 25, 18, 18, 10
+
+Ammount of change for 97 cents: 5
+Change in return: 25, 18, 18, 18, 18
+
+Ammount of change for 98 cents: 5
+Change in return: 25, 25, 25, 18, 5
+
+Ammount of change for 99 cents: 6
+Change in return: 25, 25, 25, 18, 5, 1
+
+Ammount of change for 100 cents: 4
+Change in return: 25, 25, 25, 25
+
+****** ___________________ ******
+
+BUILD SUCCESSFUL (total time: 0 seconds)
